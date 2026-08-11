@@ -1,1 +1,2 @@
 # AlgoG
+это readme файл
